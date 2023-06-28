@@ -27,5 +27,6 @@ class CartTest extends TestCase
         $netPrice = $this->cart->getNextPrice();
 
         $this->assertEquals(15, $netPrice);
+
     }
 }
