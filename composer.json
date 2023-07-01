@@ -6,5 +6,8 @@
         "psr-4": {
             "Src\\": "src"
         }
+    },
+    "require": {
+        "symfony/var-dumper": "^6.3"
     }
 }
